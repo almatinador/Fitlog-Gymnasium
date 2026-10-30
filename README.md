@@ -11,7 +11,7 @@ A dark, no-nonsense gym companion: browse a library of lifts, lock them into tod
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-[Live Demo](#) · [Report a Bug](#) · [Request a Feature](#)
+[Live Demo](https://fitlog-gymnasium.vercel.app/) · [Report a Bug](#) · [Request a Feature](#)
 
 </div>
 
